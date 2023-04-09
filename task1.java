@@ -130,5 +130,7 @@ public class task1 {
             System.out.println(lap.toString());
             System.out.println();
         }
+        
+        scanner.close();
     }
 }
